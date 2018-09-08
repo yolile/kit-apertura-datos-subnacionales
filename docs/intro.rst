@@ -1,6 +1,6 @@
-#######################################################
-¿Cuáles son los datasets por los que debería comenzar?
-#######################################################
+################################################################
+¿Cómo determinar por cuáles conjuntos de datos debería comenzar?
+################################################################
 
 Para determinar cuáles son los conjuntos de datos a ser publicados se puede tener en cuenta tanto los requisitos legales existentes a nivel nacional como también las necesidades específicas de cada municipio, teniendo en cuenta cuál será el uso que se dará a los datos publicados.
 

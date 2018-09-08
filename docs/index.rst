@@ -14,12 +14,4 @@ conjuntos de datos prioritarios para los gobiernos subnacionales de Argentina
    :caption: Contenido:
 
    intro
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   conjuntos-datos
